@@ -20,14 +20,16 @@ It is also useful for citizens as they can get visualization about type of crime
 
 **Steps to run the project:**
 
-**Step1:** Download the folder [VA_FINAL](https://github.com/champsrikar/Visualizing-Crimes-in-USA/tree/main/VA_Final). 
+**Step 1:** Download the folder [VA_FINAL](https://github.com/champsrikar/Visualizing-Crimes-in-USA/tree/main/VA_Final). 
 
-**Step2:** It consists of [Data](https://github.com/champsrikar/Visualizing-Crimes-in-USA/tree/main/VA_Final/Data) and [multipage_app](https://github.com/champsrikar/Visualizing-Crimes-in-USA/tree/main/VA_Final/multipage_app)
+**Step 2:** It consists of [Data](https://github.com/champsrikar/Visualizing-Crimes-in-USA/tree/main/VA_Final/Data) and [multipage_app](https://github.com/champsrikar/Visualizing-Crimes-in-USA/tree/main/VA_Final/multipage_app)
 
-**Step3:** In your command prompt navigate to the directory where you have downloaded the folder and then run **cd VA_FINAL/multipage_app**
+**Step 3:** Before running the application make sure that you have installed all the packages mentioned in the [requirements file](https://github.com/champsrikar/Visualizing-Crimes-in-USA/blob/main/Requirements)
 
-**Step4:** Run the command **streamlit run 1_Crimes_based_on_Time_of_the_day.py**
+**Step 4:** In your command prompt navigate to the directory where you have downloaded the folder and then run **cd VA_FINAL/multipage_app**
 
-**Step5:** A streamlit application is displayed in the browser
+**Step 5:** Run the command **streamlit run 1_Crimes_based_on_Time_of_the_day.py**
 
-**Step6:** Navigate through all the pages of the application for viewing and interacting with the visualizations.
+**Step 6:** A streamlit application is displayed in the browser
+
+**Step 7:** Navigate through all the pages of the application for viewing and interacting with the visualizations.
