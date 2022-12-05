@@ -12,7 +12,7 @@ fig_target = go.Figure(data=[go.Pie(labels=df2['Offense_Category'],
                             values=df2['Victims'],
                             hole=.3)])
 fig_target.update_layout(showlegend=True,
-                    height=200,
+                    height=400,
                     margin={'l': 20, 'r': 60, 't': 20, 'b': 0})
 fig_target.update_traces(textposition='inside', textinfo='percent')
 st.plotly_chart(fig_target)
